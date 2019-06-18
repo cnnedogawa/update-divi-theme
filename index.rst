@@ -10,4 +10,4 @@ Type your API key which you got in step 3
 Click save to finish authorization for your account
 On the left hand side, click on Dashboard > Updates tab
 Update your Divi theme
-Check out more details and video guide at https://artsnet.org/divi-wordpress-theme/
+Check out more details and video guide at https://artsnet.org/how-to-update-divi-theme-in-wordpress/
